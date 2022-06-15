@@ -2,7 +2,7 @@
 title: "对2022中高考考生的祝福（虽然高考过了"
 slug: "bless-2022"
 date: 2022-06-13T17:52:01+08:00
-image: ./school.png
+image: "school.png"
 draft: false
 ---
 六月，骄阳似火；考试，悄然来临。每年六月，都是数百万人检验十年寒窗的日子。因为，中考和高考，来了。  
