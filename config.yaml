@@ -207,6 +207,24 @@ menu:
           params:
               icon: brand-twitter
 
+        - identifier: telegram
+          name: Telegram
+          url: https://t.me/dreamonex1
+          params:
+              icon: brand-telegram
+
+        - identifier: email
+          name: Email
+          url: mailto:me@dreamonex.eu.org
+          params:
+              icon: mail
+
+        - identifier: rss
+          name: RSS
+          url: https://blog.dreamonex.eu.org/index.xml
+          params:
+              icon: rss
+
 related:
     includeNewer: true
     threshold: 60
