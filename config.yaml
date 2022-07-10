@@ -4,6 +4,12 @@ theme: hugo-theme-stack
 paginate: 5
 title: 点点晨曦 | DreamOneX's Blog
 
+author:
+   name: "DreamOneX"
+
+frontmatter:
+  lastmod: [":fileModTime", "lastmod"]
+
 languages:
     en:
         languageName: English

@@ -3,8 +3,13 @@ title: "初中毕业"
 date: 2022-06-26T11:00:00+08:00
 slug: "graduation"
 description: "三年时光如水，无法停留，毕业的时间到了"
+categories:
+  - "study"
+  - "life"
+
 draft: false
 ---
+
 > 昨夜星辰曾与 昨夜风 相拥，  
 > 昨夜风告别了 那一夜 苍穹，  
 > 坠落人海入梦 化故事 翻涌，  

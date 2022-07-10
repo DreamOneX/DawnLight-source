@@ -4,6 +4,9 @@ slug: "bless-2022"
 date: 2022-06-13T17:52:01+08:00
 image: "school.png"
 draft: false
+categories:
+  - "bless"
+
 description: "六月，骄阳似火；考试，悄然来临。每年六月，都是数百万人检验十年寒窗的日子。因为，中考和高考，来了。  "
 ---
 <!--more-->  
