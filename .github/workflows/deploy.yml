@@ -19,7 +19,7 @@ jobs:
           hugo-version: '0.101.0'
           extended: true
       - name: Build Site
-        run: hugo --minify
+        run: hugo
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/master' }}
