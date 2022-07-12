@@ -22,8 +22,8 @@ jobs:
         run: hugo
       - name: create CNAME
         run : |
-          - echo "blog.dreamonex.eu.org" > ./CNAME
-          - cp ./CNAME ./public
+          echo "blog.dreamonex.eu.org" > ./CNAME
+          cp ./CNAME ./public
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/master' }}
