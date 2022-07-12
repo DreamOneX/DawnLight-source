@@ -5,6 +5,7 @@ slug: "huan-ta-ji-ba"
 description: "厦门174医院，还他几把"
 categories:
     - "Strange"
+hidden: true
 draft: false
 ---
 

@@ -55,7 +55,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Nice to meet you~
+        subtitle: 实践是检验真理的唯一标准
         avatar:
             enabled: true
             local: true

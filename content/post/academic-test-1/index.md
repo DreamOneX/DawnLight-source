@@ -6,6 +6,7 @@ categories:
     - "study"
 
 slug: "academic-test"
+hidden: true
 draft: false
 ---
 # ~~虎~~头

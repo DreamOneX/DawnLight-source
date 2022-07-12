@@ -6,6 +6,7 @@ slug: "super-power-2022"
 categories:
   - "bless"
 
+hidden: true
 ---
 
 ```

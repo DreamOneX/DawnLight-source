@@ -7,6 +7,7 @@ categories:
   - "study"
   - "life"
 
+hidden: true
 draft: false
 ---
 
