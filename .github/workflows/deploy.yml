@@ -27,5 +27,5 @@ jobs:
           deploy_key: ${{secrets.ACTIONS_DEPLOY_KEY}}
           external_repository: DreamOneX/dreamonex.github.io
           publish_branch: master
-          keep_files: true
+          keep_files: false
           publish_dir: ./public
