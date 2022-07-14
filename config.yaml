@@ -221,7 +221,8 @@ menu:
 
         - identifier: rss
           name: RSS
-          url: https://blog.dreamonex.eu.org/index.xml
+          #url: https://blog.dreamonex.eu.org/index.xml
+          url: ./index.xml
           params:
               icon: rss
 

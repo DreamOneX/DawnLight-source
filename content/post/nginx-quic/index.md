@@ -1,9 +1,15 @@
 ---
-title: "Nginx-quic部署笔记"
+title: "nginx-quic部署笔记"
 date: 2022-07-14T21:48:18+08:00
 draft: false
 slug: "nginx-quic"
 image: "internet.png"
+categories:
+    - code
+tags:
+    - nginx
+    - linux
+    - web
 description: "nginx是个很著名的http服务器，nginx-quic分支使它支持http/3的分支之一（来自nginx官方）了解quic后，迫不及待（划掉）地想搞一个玩玩，但踩了N个坑，所以留个笔记（顺便证明一下我的博客还活着）"
 ---
 
