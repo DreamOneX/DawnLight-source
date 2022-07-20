@@ -70,8 +70,8 @@ params:
             default: Licensed under CC BY-SA 4.0
 
     comments:
-        enabled: false
-        provider: disqus
+        enabled: true
+        provider: waline
 
         disqusjs:
             shortname:
@@ -100,15 +100,17 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/component.html
         waline:
-            serverURL:
-            lang:
+            serverURL: 'https://dawn-light-comment-mxxft72z5-me-dreamonexeu.vercel.app/'
+            lang: 'zh-CN'
             pageview:
             emoji:
                 - https://unpkg.com/@waline/emojis@1.0.1/weibo
+                - https://unpkg.com/@waline/emojis@1.0.1/bilibili
+                - https://unpkg.com/@waline/emojis@1.0.1/tieba
+                - https://unpkg.com/@waline/emojis@1.0.1/qq
+                - https://unpkg.com/@waline/emojis@1.0.1/tw
             requiredMeta:
                 - name
-                - email
-                - url
             locale:
                 admin: Admin
                 placeholder:
