@@ -70,8 +70,9 @@ pacman-key --populate archlinux
 ```
 ### 安装软件包  
 ```bash
+pacman -Syu
 pacstrap /mnt base linux linux-firmware
-pacman -S nano vim man-pages mandb texinfo grub
+pacman -S nano vim man-pages mandb texinfo grub openssh
 ```
 ### 生成fstab
 ```bash
