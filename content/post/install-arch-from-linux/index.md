@@ -86,6 +86,9 @@ genfstab /mnt >> /etc/fstab
 en_US.UTF-8
 zh_CN.UTF-8
 ```  
+```bash
+locale-gen
+```
 * `/etc/locale.conf`
 ```toml
 LANG=zh_CN.UTF-8
