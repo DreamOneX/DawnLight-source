@@ -118,17 +118,6 @@ hwclock --systohc
 ```bash
 passwd
 ```   
------
-在执行`lsblk`确认无误后，挂载磁盘  
-```bash
-mount /dev/sda /mnt
-rm -r ...
-```  
-若使用`LVM`，则将对应的逻辑卷挂载到对应的目录  
-举个例子`mount /dev/lv/root /mnt`  
-## **IMPORTANT**  
-**/dev**, **/sys**, **/run**, **/tmp**, **/proc** **不应删除**  
-~~`rm -rf /*`~~  
 
 ## 开启网络、ssh  
 * 编辑`/etc/systemd/network/default.network`  
@@ -148,6 +137,7 @@ systemctl enable sshd
 
 ## 准备引导  
 ```bash
+mount /dev/sda1 /boot/efi
 grub-install --target=x86_64-efi --efi-directory=/boot/efi
 grub-mkconfig -o /boot/grub/grub.cfg
 ```
@@ -155,6 +145,18 @@ grub-mkconfig -o /boot/grub/grub.cfg
 ```bash
 grub-install --target=i386-pc --recheck --force /dev/sda
 ```  
+
+-----
+在执行`lsblk`确认无误后，挂载磁盘  
+```bash
+mount /dev/sda /mnt
+rm -r ...
+```  
+若使用`LVM`，则将对应的逻辑卷挂载到对应的目录  
+举个例子`mount /dev/lv/root /mnt`  
+## **IMPORTANT**  
+**/dev**, **/sys**, **/run**, **/tmp**, **/proc** **不应删除**  
+~~`rm -rf /*`~~  
 
 ## Done !
 现在，重启系统，就能看到`Arch Linux`的字样了   
