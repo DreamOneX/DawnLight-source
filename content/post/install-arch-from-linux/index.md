@@ -57,6 +57,7 @@ cp /etc/resolv.conf /tmp/root.x86_64/etc/
 
 ## 进入`chroot`  
 ```bash
+mount --bind /tmp/root.x86_64 /tmp/root.x86_64
 mount --bind /boot/efi "/tmp/root.x86_64/boot/efi" # 挂载efi
 /tmp/root.x86_64/bin/arch-chroot /tmp/root.x86_64/
 ```   
