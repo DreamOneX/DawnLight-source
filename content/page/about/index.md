@@ -108,12 +108,16 @@ Fingerprint = 4792 6B6E 5C3D 04E9 3A2A  627F 67C3 3900 10A1 A57A
 欢迎DM！但请尽量**避免使用QQ**联系我。 我建议你通过 **Telegram** 或 **email**联系我。如果你连续我通过某个平台，且我超过**24h**没有任何回复，请给我**发送一封电子邮件**提醒我。我也许没有检查那些平台的消息。另外，我每天**查看我的邮箱**。
 
 [![Telegram](https://img.shields.io/badge/-@dreamonex1-2E9FD7?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/dreamonex1) [![Tencent QQ](https://img.shields.io/badge/-1538874738-00C2F2?logo=tencentqq&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=rbknx18REkcU12VBJTxX7wAnNnrPLBZ8&noverify=0)  
-[![Discord](https://img.shields.io/badge/-DreamOneX%238950-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordhub.com/profile/877528571214692382) [![Github](https://img.shields.io/badge/-DreamOneX-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/DreamOneX)  
+[![Discord](https://img.shields.io/badge/-DreamOneX%238950-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordhub.com/profile/877528571214692382)   
 [![Matrix](https://img.shields.io/badge/-@dreamonex:matrix.org-0DBD8B?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@dreamonex:matrix.org)
 
 ### 📝 Twitter
 
 [![Twitter](https://img.shields.io/badge/-@dreamonex1-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/dreamonex1)  
+
+### 📀 Github
+
+[![Github](https://img.shields.io/badge/-DreamOneX-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/DreamOneX)
 
 ## 📊 Github Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DreamOneX&theme=github-dark-blue)  

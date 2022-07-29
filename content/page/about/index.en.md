@@ -109,12 +109,16 @@ In additional, I **rarely** check **Gmail** and **Outlook**.
 DM is welcome! But please try to **avoid using QQ** to contact me. I suggest you to contact me via **Telegram** or **email**. If you contact me through a platform and have not responded for more than **24 hours**, please **send me an email**. I may not have checked the messages from those platforms. **And I check my mailbox every day.**
 
 [![Telegram](https://img.shields.io/badge/-@dreamonex1-2E9FD7?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/dreamonex1) [![Tencent QQ](https://img.shields.io/badge/-1538874738-00C2F2?logo=tencentqq&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=rbknx18REkcU12VBJTxX7wAnNnrPLBZ8&noverify=0)  
-[![Discord](https://img.shields.io/badge/-DreamOneX%238950-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordhub.com/profile/877528571214692382) [![Github](https://img.shields.io/badge/-DreamOneX-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/DreamOneX)  
+[![Discord](https://img.shields.io/badge/-DreamOneX%238950-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordhub.com/profile/877528571214692382)   
 [![Matrix](https://img.shields.io/badge/-@dreamonex:matrix.org-0DBD8B?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@dreamonex:matrix.org)
 
 ### 📝 Twitter
 
 [![Twitter](https://img.shields.io/badge/-@dreamonex1-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/dreamonex1)  
+
+### 📀 Github
+
+[![Github](https://img.shields.io/badge/-DreamOneX-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/DreamOneX)
 
 ## 📊 Github Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DreamOneX&theme=github-dark-blue)  
