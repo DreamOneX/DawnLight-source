@@ -224,7 +224,7 @@ menu:
         - identifier: rss
           name: RSS
           #url: https://blog.dreamonex.eu.org/index.xml
-          url: ./feed.xml
+          url: /feed.xml
           params:
               icon: rss
 
