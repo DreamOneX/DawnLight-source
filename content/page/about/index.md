@@ -8,7 +8,7 @@ menu:
             icon: user
 ---
 
-<img align="right" src="https://count.getloli.com/get/@DreamOneX.github.readme">
+<img align="right" src="https://count.getloli.com/get/@DreamOneX.github.readme?theme=rule34">
 
 # 🍥 DreamOneX
 
@@ -16,7 +16,7 @@ menu:
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&vCenter=true&width=450&height=50&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFDreamOneX;Hello!+I'm+DreamOneX;Nice+to+meet+you~)
 
-💬 a.k.a. `MorningDreamOne`
+💬 a.k.a. `MorningDreamOneX`
 > 📝 一只来自中国的~~可爱的猫~~ (人*´∀｀)｡*ﾟ 喜欢玩Minecraft，写代码等等。另外, 我喜欢**睡觉**而且总是想睡觉 ~ ~~`Homo sapiens` 怎么会有一个不喜欢睡觉的个体呢 ?~~ 我不喜欢没逻辑的争论，也从不参与。最后，我喜欢交朋友。 很期待你通过下面的联系方式DM我
 
 * 倡导自由开源文化/热爱信息技术
