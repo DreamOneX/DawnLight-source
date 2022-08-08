@@ -9,7 +9,7 @@ menu:
             icon: user
 ---
 
-<img align="right" src="https://count.getloli.com/get/@DreamOneX.github.readme">
+<img align="right" src="https://count.getloli.com/get/@DreamOneX.github.readme?theme=rule34">
 
 # 🍥 DreamOneX
 
