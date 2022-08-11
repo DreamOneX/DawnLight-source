@@ -13,7 +13,7 @@ menu:
 
 # 🍥 DreamOneX
 
-![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&theme=blue-green&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=DreamOneX&count_private=true&show_icons=true&title_color=fff&icon_color=F8F8FF&text_color=F8F8FF&bg_color=DEG,FFB6C1,6495ED)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&vCenter=true&width=450&height=50&lines=%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AFDreamOneX;Hello!+I'm+DreamOneX;Nice+to+meet+you~)
 
