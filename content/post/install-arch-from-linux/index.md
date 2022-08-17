@@ -65,6 +65,22 @@ mount --bind /boot/efi "/tmp/root.x86_64/boot/efi" # 挂载efi
 1. 若提示`FATAL: kernel too old`应更新系统内核   
 2. 若不支持`--fork`、`--pid`请参考[ArchLinux Wiki](https://wiki.archlinux.org/title/Install_Arch_Linux_from_existing_Linux)，或尝试更新系统   
 
+---
+
+在执行`lsblk`确认无误后，挂载磁盘，删掉旧系统  
+
+```bash
+mount /dev/sda /mnt
+rm -r ...
+```    
+     
+若使用`LVM`，则将对应的逻辑卷挂载到对应的目录，举个例子：`mount /dev/lv/root /mnt`    
+
+**IMPORTANT**: 以下目录：**/dev**, **/sys**, **/run**, **/tmp**, **/proc** **不应删除**    
+~~这感觉，简直是`rm -rf /*`啊~~    
+
+---   
+
 ## 使用`chroot`环境   
 ### pacman-key 初始化  
 ```bash  
@@ -147,16 +163,6 @@ grub-install --target=i386-pc --recheck --force /dev/sda
 ```  
 
 -----
-在执行`lsblk`确认无误后，挂载磁盘  
-```bash
-mount /dev/sda /mnt
-rm -r ...
-```  
-若使用`LVM`，则将对应的逻辑卷挂载到对应的目录  
-举个例子`mount /dev/lv/root /mnt`  
-## **IMPORTANT**  
-**/dev**, **/sys**, **/run**, **/tmp**, **/proc** **不应删除**  
-~~`rm -rf /*`~~  
 
 ## Done !
 现在，重启系统，就能看到`Arch Linux`的字样了   
