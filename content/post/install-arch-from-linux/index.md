@@ -28,8 +28,10 @@ draft: false
 **自动化不一定是脚本小子，只是为了避免不必要的麻烦**  
 * [vps2arch](https://gitlab.com/drizzt/vps2arch) 可以全程自动化操作，~~虽然年久失修~~  
 
-~~另外，如需`lvm`你可以直接按上面的脚本或者找别的教程了，原因竟是我没弄过 ~~
-统统划掉，因为我现在在搞，搞好了会更新这篇post  
+~~另外，如需`lvm`你可以直接按上面的脚本或者找别的教程了，原因竟是我没弄过~~
+
+~~我还是不确定行不行，要不你试试吧，寄了别找我~~
+ 
 # 正式开始  
 ## 下载Bootstrap
 （按实际情况修改时间及镜像，可参考[Archlinux Downloads](https://archlinux.org/download/)）  
@@ -107,7 +109,7 @@ zh_CN.UTF-8
 locale-gen
 ```
 * `/etc/locale.conf`
-```toml
+```ini
 LANG=zh_CN.UTF-8
 LANGUAGE=zh_CN.UTF-8:en_US.UTF-8
 LC_CTYPE=en_US.UTF-8
