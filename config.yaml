@@ -142,8 +142,8 @@ params:
             owner: DreamOneX
             admin: DreamOneX
             repo: DreamOneX/DawnLight-source
-            clientID:
-            clientSecret:
+            clientID: 9fbb0eafb39e1350996f
+            clientSecret: 87d4994005d1a6b71885403d43f5d983599a3346
 
         cusdis:
             host:
