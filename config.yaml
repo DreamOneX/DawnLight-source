@@ -71,7 +71,7 @@ params:
 
     comments:
         enabled: true
-        provider: waline
+        provider: gitalk
 
         disqusjs:
             shortname:
@@ -139,9 +139,9 @@ params:
             emitMetadata: 0
 
         gitalk:
-            owner:
-            admin:
-            repo:
+            owner: DreamOneX
+            admin: DreamOneX
+            repo: DreamOneX/DawnLight-source
             clientID:
             clientSecret:
 
