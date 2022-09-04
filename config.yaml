@@ -83,7 +83,7 @@ params:
         utterances:
             repo: "DreamOneX/DawnLight-source"
             issueTerm: pathname
-            label: "�✨comment"
+            label: "💬✨comment"
 
         remark42:
             host:
