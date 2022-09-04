@@ -71,7 +71,7 @@ params:
 
     comments:
         enabled: true
-        provider: gitalk
+        provider: utterances
 
         disqusjs:
             shortname:
@@ -81,9 +81,9 @@ params:
             adminLabel:
 
         utterances:
-            repo:
+            repo: "DreamOneX/DawnLight-source"
             issueTerm: pathname
-            label:
+            label: "�✨comment"
 
         remark42:
             host:
@@ -142,7 +142,7 @@ params:
             owner: "DreamOneX"
             admin: "DreamOneX"
             repo: "DawnLight-source"
-            clientID: "9fbb0eafb39e1350996f"
+            clientID: "9fbb0eafb39e1350996f" #revoked
             clientSecret: "87d4994005d1a6b71885403d43f5d983599a3346"
 
         cusdis:
