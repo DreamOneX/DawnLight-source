@@ -241,9 +241,25 @@ related:
 
 markup:
     goldmark:
+        extensions:
+            definitionList: true
+            footnote: true
+            linkify: true
+            linkifyProtocol: https
+            strikethrough: true
+            table: true
+            taskList: true
+            typographer: true
+        parser:
+            attribute:
+                block: false
+                title: true
+            autoHeadingID: true
+            autoHeadingIDType: 'github'
         renderer:
             ## Set to true if you have HTML content inside Markdown
             unsafe: true
+            hardWraps: false
     tableOfContents:
         endLevel: 4
         ordered: true
