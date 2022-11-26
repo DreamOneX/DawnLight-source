@@ -2,6 +2,7 @@
 title: "白嫖Github学生开发包"
 date: 2022-08-04T21:17:08+08:00
 description: "白嫖谁不爱呢"
+image: "github.webp"
 slug: "apply-github-student-development-pack"
 categories:
   - code

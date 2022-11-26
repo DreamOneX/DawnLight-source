@@ -1,0 +1,25 @@
+{{ define "main" }}
+    {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+    {{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
+    {{ $filtered := ($pages | intersect $notHidden) }}
+    {{ $pag := .Paginate ($filtered) }}
+
+    <div class="site-meta">
+    	<h1 class="site-title" align="center">
+        	<a href="{{ .Site.BaseURL | relLangURL }}about/">{{ .Site.Title }}</a>
+    	</h1>
+    </div>
+
+    <section class="article-list">
+        {{ range $index, $element := $pag.Pages }}
+            {{ partial "article-list/default" . }}
+        {{ end }}
+    </section>
+
+    {{- partial "pagination.html" . -}}
+    {{- partial "footer/footer" . -}}
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}
