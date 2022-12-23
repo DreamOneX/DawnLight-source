@@ -21,7 +21,7 @@ menu:
 > 📝 A ~~lovely neko~~ from China (人*´∀｀)｡*ﾟ Like to play Minecraft, coding and etc. What's more, I like **sleep** and want to sleep anytime ~ ~~How could an individual of `Homo sapiens` not like to sleep ?~~ I really don't like participating in any illogical discussion. Finally, I enjoy making friends. I am looking forward and welcome you to DM me via the contact information below.
 
 * Advocate free and open source culture / Love information technology
-* from China / 15 y.o. / No.1 Senior High School In Huainan
+* from China / 15 y.o.
 * Senior High School Student / Physics, Chemistry, Biology
 * Developer / Linux Lover
 * Minecraft Lover
@@ -44,14 +44,12 @@ $ lsb_release -i -d -r
 Distributor ID: Arch
 Description:    Arch Linux
 Release:        rolling
+$ zsh --version
+zsh 5.9
 $ nvim --version
-NVIM v0.7.0
-Build type: Release
-LuaJIT 2.1.0-beta3
+NVIM v0.8.1
 $ firefox --version
-Mozilla Firefox 102.0.1
-$ chromium --version
-Chromium 103.0.5060.134 Arch Linux
+Mozilla Firefox 108.0.1
 ```
 
 ## 🎲 Programming Language Stack
@@ -65,7 +63,7 @@ Chromium 103.0.5060.134 Arch Linux
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logoo&logoColor=fff)
 ![VimScript](https://img.shields.io/badge/-VimScript-019733?style=for-the-badge&logo=vim&logoColor=fff)
 
 🤬 F**k E lang (易语言 not Erlang)  
@@ -95,20 +93,18 @@ Welcome to DM me~ I am happy to make friends.
 
 ### 📧 Email
 
-If you are using **duckduckgo, Google** and other email services that are **blocked in mainland China**, it is recommended to send **PGP-encrypted** emails to my **[QQ mailbox](mailto:dreamonex@qq.com)**.  
-Otherwise, I recommend sending the mail to my **[personal mailbox](mailto:me@dreamonex.eu.org)**.  
+I recommend sending the mail to my **[personal mailbox](mailto:me@dreamonex.eu.org)**.  
 In additional, I **rarely** check **Gmail** and **Outlook**.
 
 [![MyMail](https://img.shields.io/badge/-me@dreamonex.eu.org-54BDF2?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:me@dreamonex.eu.org)  
-[![QQMail](https://img.shields.io/badge/-dreamonex@qq.com-00C2F2?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:dreamonex@qq.com)  
 [![Outlook](https://img.shields.io/badge/-dreamonex1@outlook.com-0E73CD?logo=microsoftoutlook&logoColor=white&style=for-the-badge)](mailto:dreamonex1@outlook.com)  
 [![Gmail](https://img.shields.io/badge/-dreamonex1@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:dreamonex1@gmail.com)
 
 ### 💬 Instant Messaging
 
-DM is welcome! But please try to **avoid using QQ** to contact me. I suggest you to contact me via **Telegram** or **email**. If you contact me through a platform and have not responded for more than **24 hours**, please **send me an email**. I may not have checked the messages from those platforms. **And I check my mailbox every day.**
+DM is welcome! I suggest you to contact me via **Telegram** or **email**. If you contact me through a platform and have not responded for more than **24 hours**, please **send me an email**. I may not have checked the messages from those platforms. **And I check my mailbox every day.**
 
-[![Telegram](https://img.shields.io/badge/-@dreamonex-2E9FD7?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/dreamonex) [![Tencent QQ](https://img.shields.io/badge/-1538874738-00C2F2?logo=tencentqq&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=rbknx18REkcU12VBJTxX7wAnNnrPLBZ8&noverify=0)  
+[![Telegram](https://img.shields.io/badge/-@dreamonex-2E9FD7?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/dreamonex) 
 [![Discord](https://img.shields.io/badge/-DreamOneX%238950-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordhub.com/profile/877528571214692382)   
 [![Matrix](https://img.shields.io/badge/-@dreamonex:matrix.org-0DBD8B?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@dreamonex:matrix.org)
 
@@ -177,12 +173,18 @@ DM is welcome! But please try to **avoid using QQ** to contact me. I suggest you
 
 
 # My Blog(≧▽≦)    
+
 ## ~~Original Mission~~ 
 * Share thoughts on studying and life  
 * Notes for me  
-* ~~play~~  
-## Update Frequency  
-Twice a month (?)  
+* ~~play~~
+
+## Update Frequency
+
+Twice a month (?) 
+~~Impossible !~~
+
 ## License  
+
 ![CC-BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)  
 Unless otherwise stated, all articles on my website Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)  	

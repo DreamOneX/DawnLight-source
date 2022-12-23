@@ -20,7 +20,7 @@ menu:
 > 📝 一只来自中国的~~可爱的猫~~ (人*´∀｀)｡*ﾟ 喜欢玩Minecraft，写代码等等。另外, 我喜欢**睡觉**而且总是想睡觉 ~ ~~`Homo sapiens` 怎么会有一个不喜欢睡觉的个体呢 ?~~ 我不喜欢没逻辑的争论，也从不参与。最后，我喜欢交朋友。 很期待你通过下面的联系方式DM我
 
 * 倡导自由开源文化/热爱信息技术
-* 来自中国 / 15 y.o. / 淮南一中
+* 来自中国 / 15 y.o.
 * 高中学生 / 选修理化生
 * 开发者 / Linux爱好者
 * Minecraft 玩家
@@ -43,14 +43,12 @@ $ lsb_release -i -d -r
 Distributor ID: Arch
 Description:    Arch Linux
 Release:        rolling
+$ zsh --version
+zsh 5.9
 $ nvim --version
-NVIM v0.7.0
-Build type: Release
-LuaJIT 2.1.0-beta3
+NVIM v0.8.1
 $ firefox --version
-Mozilla Firefox 102.0.1
-$ chromium --version
-Chromium 103.0.5060.134 Arch Linux
+Mozilla Firefox 108.0.1
 ```
 
 ## 🎲 编程语言栈
@@ -94,20 +92,18 @@ Fingerprint = 4792 6B6E 5C3D 04E9 3A2A  627F 67C3 3900 10A1 A57A
 
 ### 📧 Email
 
-如果你正在使用**duckduckgo, Google**或其他**被中国大陆屏蔽的邮件服务**, 我建议你向我的 **[QQ邮箱](mailto:dreamonex@qq.com)** 发送经过**PGP加密**的邮件。  
-否则, 我建议你把邮件发到 **[我自建的邮箱](mailto:me@dreamonex.eu.org)** 。    
+我建议你把邮件发到 **[我自建的邮箱](mailto:me@dreamonex.eu.org)** 。    
 另外, 我 **很少** 查看我的 **Gmail** 和 **Outlook** 。  
 
 [![MyMail](https://img.shields.io/badge/-me@dreamonex.eu.org-54BDF2?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:me@dreamonex.eu.org)  
-[![QQMail](https://img.shields.io/badge/-dreamonex@qq.com-00C2F2?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:dreamonex@qq.com)  
 [![Outlook](https://img.shields.io/badge/-dreamonex1@outlook.com-0E73CD?logo=microsoftoutlook&logoColor=white&style=for-the-badge)](mailto:dreamonex1@outlook.com)  
 [![Gmail](https://img.shields.io/badge/-dreamonex1@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:dreamonex1@gmail.com)
 
 ### 💬 即时通讯
 
-欢迎DM！但请尽量**避免使用QQ**联系我。 我建议你通过 **Telegram** 或 **email**联系我。如果你连续我通过某个平台，且我超过**24h**没有任何回复，请给我**发送一封电子邮件**提醒我。我也许没有检查那些平台的消息。另外，我每天**查看我的邮箱**。
+欢迎DM！我建议你通过 **Telegram** 或 **email** 联系我。如果你连续我通过某个平台，且我超过**24h**没有任何回复，请给我**发送一封电子邮件**提醒我。我也许没有检查那些平台的消息。另外，我每天**查看我的邮箱**。
 
-[![Telegram](https://img.shields.io/badge/-@dreamonex-2E9FD7?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/dreamonex) [![Tencent QQ](https://img.shields.io/badge/-1538874738-00C2F2?logo=tencentqq&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=rbknx18REkcU12VBJTxX7wAnNnrPLBZ8&noverify=0)  
+[![Telegram](https://img.shields.io/badge/-@dreamonex-2E9FD7?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/dreamonex)
 [![Discord](https://img.shields.io/badge/-DreamOneX%238950-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordhub.com/profile/877528571214692382)   
 [![Matrix](https://img.shields.io/badge/-@dreamonex:matrix.org-0DBD8B?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@dreamonex:matrix.org)
 
@@ -175,12 +171,20 @@ Fingerprint = 4792 6B6E 5C3D 04E9 3A2A  627F 67C3 3900 10A1 A57A
 </details>
 
 # 我的博客(≧▽≦)    
+
 ## ~~初心使命~~  
+
 * 分享学习生活的心得  
 * 给自己当笔记  
 * ~~折腾~~  
+
 ## 更新频率  
-一个月两次（？）  
+
+~~一个月两次（？)~~
+
+~~鬼啊，这是不可能的~~
+
 ## 许可  
+
 ![CC-BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)  
 本站所有文章，如无特殊声明，均采用[知识共享 署名-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可  
