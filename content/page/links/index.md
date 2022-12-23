@@ -7,7 +7,7 @@ links:
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: NekoYyang
     description: 一只活得前端大佬
-    website: https://nekoyyang.eu.org:233/
+    website: https://neko-yyang-github-io.vercel.app/
     image: https://q2.qlogo.cn/headimg_dl?dst_uin=2914443983&spec=100
   - title: L1nSn0w’s Blog
     description: 无限进步.🎈
