@@ -29,7 +29,7 @@ jobs:
           deploy_key: ${{secrets.ACTIONS_DEPLOY_KEY}}
           external_repository: DreamOneX/dreamonex.github.io
           publish_branch: master
-          cname: blog.dreamonex.eu.org
+          # cname: blog.dreamonex.eu.org
           user_name: DreamOneX
           user_email: me@dreamonex.eu.org
           publish_dir: ./public
