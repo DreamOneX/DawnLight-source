@@ -2,6 +2,8 @@
 title: "Hello World | 博客开张 ;-)"
 date: 2022-06-07
 slug: "hello-world"
+categories:
+    - blog
 draft: false
 description: "2022年6月7日，把这个博客搓了出来"
 ---
