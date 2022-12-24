@@ -2,6 +2,7 @@
 title: "加入萌备"
 slug: "join-moe-tcp"
 description: "\"嗯，你没看错，这是萌国的ICP备案\""
+image: "result.jpg"
 date: 2022-12-25T01:52:08+08:00
 categories:
     - blog
