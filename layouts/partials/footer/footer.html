@@ -28,4 +28,12 @@
         </a>
     </section>
 
+    <section class="powerby">
+        {{$scratch := newScratch}}
+        {{ range (where .Site.Pages "Kind" "page" )}}
+            {{$scratch.Add "total" .WordCount}}
+        {{ end }}
+        <span>共摸了 {{ div ($scratch.Get "total") 1000.0 | lang.FormatNumber 2  }}k 字  · 共水了 {{ len (where .Site.RegularPages "Section" "post")  }}篇 post.</span>
+    </section>
+
 </footer>
