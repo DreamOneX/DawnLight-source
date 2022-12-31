@@ -62,7 +62,7 @@ params:
             src: img/avatar.png
 
     article:
-        math: true
+        math: false
         toc: true
         readingTime: true
         license:

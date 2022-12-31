@@ -39,6 +39,21 @@ html {
       }
 }
     
+:root {
+    --article-font-family: "LXGW WenKai Screen", var(--base-font-family);
+    --code-font-family: "Ubuntu Mono", "LXGW WenKai Screen", var(--base-font-family);
+}
+
+.site-name {
+    font-family: "ZCOOL KuaiLe", var(--base-font-family);
+}
+.site-description {
+    font-family: "ZCOOL KuaiLe", var(--base-font-family);
+}
+.menu {
+    font-family: "Noto Serif", var(--base-font-family);
+}
+
 #typing {
     max-height: 100%;
     max-width: 100%;

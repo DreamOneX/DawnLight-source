@@ -3,6 +3,7 @@ title: "位运算笔记"
 slug: "bitopt-1"
 date: 2022-12-29T01:40:08+08:00
 image: "binary.webp"
+math: true
 categories:
     - code
 

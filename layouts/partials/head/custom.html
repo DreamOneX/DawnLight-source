@@ -1,25 +1,8 @@
+{{ if .Params.mathjax  }}{{ partial "head/mathjax.html" .  }}{{ end  }}
 <link rel="preconnect" href="https://fonts.googleapis.com"> 
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+SC&family=Noto+Serif&family=Noto+Serif+SC&family=Ubuntu+Mono&family=ZCOOL+KuaiLe&display=swap" rel="stylesheet">
 <link href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont/lxgwwenkaiscreen.css" rel="stylesheet">
-
-<style>
-    :root {
-        --article-font-family: "LXGW WenKai Screen", var(--base-font-family);
-        --code-font-family: "Ubuntu Mono", "LXGW WenKai Screen", var(--base-font-family);
-    }
-
-    .site-name {
-        font-family: "ZCOOL KuaiLe", var(--base-font-family);
-    }
-    .site-description {
-        font-family: "ZCOOL KuaiLe", var(--base-font-family);
-    }
-    .menu {
-        font-family: "Noto Serif", var(--base-font-family);
-    }
-
-</style>
 
 <script>
 		(function () {

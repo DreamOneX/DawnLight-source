@@ -6,6 +6,7 @@ image: "result.jpg"
 date: 2022-12-25T01:52:08+08:00
 categories:
     - blog
+math: true
 draft: false
 ---
 
