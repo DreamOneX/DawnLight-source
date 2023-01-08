@@ -21,7 +21,14 @@ links:
     description: 一个可以畅所欲言的论坛
     website: https://bbs.xb6868.com
     image: https://bbs.xb6868.com/assets/avatars/AecZaVyhcbNmnndv.png
-    
+  - title: XZJ 的 Blog
+    description: 一个小小的站点
+    website: https://jackxzj.github.io/
+    image: https://jackxzj.github.io/img/avatar.png
+  - title: storm-1614's blog
+    description: ArchLinux + DWM 用户
+    website: https://storm-1614.github.io/links/
+    image: https://s3.bmp.ovh/imgs/2022/11/06/678e57e18c8d4dcb.jpg
 menu:
     main: 
         weight: -50
