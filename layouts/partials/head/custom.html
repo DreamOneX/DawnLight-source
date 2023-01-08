@@ -1,17 +1,7 @@
 {{ if .Params.mathjax  }}{{ partial "head/mathjax.html" .  }}{{ end  }}
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com"> 
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+SC&family=Noto+Serif&family=Noto+Serif+SC&family=Ubuntu+Mono&family=ZCOOL+KuaiLe&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+SC&family=Noto+Serif&family=Noto+Serif+SC&family=Ubuntu+Mono&family=ZCOOL+KuaiLe&family=Source+Code+Pro:wght@500&display=swap" rel="stylesheet">
 <link href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont/lxgwwenkaiscreen.css" rel="stylesheet">
-
-<script>
-		(function () {
-		    const customFont = document.createElement('link');
-		    customFont.href = "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap";
-		
-		    customFont.type = "text/css";
-		    customFont.rel = "stylesheet";
-		
-		    document.head.appendChild(customFont);
-		}());
-</script>
+<link href="https://cdn.jsdelivr.net/npm/twemoji-colr-font/twemoji.scss" rel="stylesheet">

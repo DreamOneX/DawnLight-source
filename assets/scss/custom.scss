@@ -40,8 +40,9 @@ html {
 }
     
 :root {
-    --article-font-family: "LXGW WenKai Screen", var(--base-font-family);
-    --code-font-family: "Ubuntu Mono", "LXGW WenKai Screen", var(--base-font-family);
+    --article-font-family: "Twemoji", "LXGW WenKai Screen", var(--base-font-family);
+    --base-font-family: "Lato", "Twemoji", var(--sys-font-family), var(--zh-font-family), sans-serif;
+    --code-font-family: "Source Code Pro", "LXGW WenKai Screen", var(--base-font-family);
 }
 
 .site-name {
