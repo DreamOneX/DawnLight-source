@@ -17,6 +17,11 @@ links:
     description: 2096779623的个人博客
     website: https://blog.utermux.dev/
     image: https://blog.utermux.dev/utermux.jpg
+  - title: 雪碧论坛
+    description: 一个可以畅所欲言的论坛
+    website: https://bbs.xb6868.com
+    image: https://bbs.xb6868.com/assets/avatars/AecZaVyhcbNmnndv.png
+    
 menu:
     main: 
         weight: -50
