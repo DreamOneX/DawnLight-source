@@ -20,7 +20,11 @@ draft: false
 
 # 准备证明资料
 如果你的学校提供了edu邮箱，请掠过  
-如准考证，学生证，甚至课程表，成绩单。网上教程很多，GitHub给的文档也很~~详细~~（可以看[这里](https://docs.github.com/cn/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-for-your-schoolwork/apply-for-a-student-developer-pack#requirements)），此处不再赘述  
+如准考证，学生证，甚至课程表，成绩单。网上教程很多，GitHub给的文档也很 ~~详细~~（可以看[这里](https://docs.github.com/cn/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-for-your-schoolwork/apply-for-a-student-developer-pack#requirements)）  
+
+## 更多提示
+
+如果以上资料一个都没有，可以前往教导处要求提供在校证明；另外，一些竞赛的获奖证书也可以用作证明资料
 
 # 主要过程
 如果你打算申请学生开发包，我相信你已经看过Github的文档了，如果你没看过，就在我上面提到过的文档下面（甚至是同一个页面）（好吧，[戳这](https://docs.github.com/cn/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-for-your-schoolwork/apply-for-a-student-developer-pack#%E7%94%B3%E8%AF%B7-github-student-developer-pack)）  
@@ -38,9 +42,9 @@ draft: false
 
 # **避坑**
 
-**重点啊，重点来了！！**  
+~~坑这东西，前人踩了，就要告诉后人~~ 
 
-## 证明需要翻译
+## 证明需要翻译成英语
 我就是栽在这里，连栽两次，Github的邮件写的是
 
 > System could not translate proof.

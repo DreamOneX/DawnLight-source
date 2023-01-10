@@ -1,16 +1,31 @@
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-10XR3FX2WN"></script>
 <script>
-    // follow dnt
-    if (navigator.doNotTrack == "1") {
-        window['ga-disable-G-10XR3FX2WN'] = true;
-    }
-    window.dataLayer = window.dataLayer || [];
+	// follow dnt
+	var DNT = 'unspecified'; //default
+	if (typeof navigator.doNotTrack != 'undefined') {
+		DNT = navigator.doNotTrack;
+	} else if (typeof window.doNotTrack != 'undefined') {
+		DNT = window.doNotTrack;
+	} else if (typeof navigator.msDoNotTrack != 'undefined') {
+		DNT = navigator.msDoNotTrack;
+	} // DNT can be null, 'unspecified', '1', '0' 'yes' or 'no'
+	if (DNT == 'yes') {
+		DNT = '1'; // Do not track
+	} else if (DNT == 'no') {
+		DNT = '0';
+	}
 
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+	if (DNT == '1') {
+		window['ga-disable-G-10XR3FX2WN'] = true;
+	}
 
-    gtag('config', 'G-10XR3FX2WN');
+	window.dataLayer = window.dataLayer || [];
+
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+
+	gtag('config', 'G-10XR3FX2WN');
 </script>

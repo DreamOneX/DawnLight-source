@@ -41,7 +41,8 @@ html {
     
 :root {
     --article-font-family: "LXGW WenKai Screen", var(--base-font-family);
-    --code-font-family: "Ubuntu Mono", "LXGW WenKai Screen", var(--base-font-family);
+    --base-font-family: "Lato", "Twemoji", var(--sys-font-family), var(--zh-font-family), sans-serif;
+    --code-font-family: "Source Code Pro", "Noto Serif SC", var(--base-font-family);
 }
 
 .site-name {
@@ -54,9 +55,20 @@ html {
     font-family: "Noto Serif", var(--base-font-family);
 }
 
-#typing {
-    max-height: 100%;
-    max-width: 100%;
-    height: auto;
-    width: auto;
+#typed {
+    font-family: "ZCOOL KuaiLe", var(--base-font-family);
+    font-size: 1.5em;
+    background-image: linear-gradient(to right, #5bcefa, #f5a9b8, #fff, #f5a9b8, #5bcefa);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.typed {
+    text-align: center;
+}
+
+.typed-cursor {
+    color: #fff;
+    font-size: 1.5em;
 }
