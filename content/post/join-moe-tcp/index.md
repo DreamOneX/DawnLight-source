@@ -12,6 +12,7 @@ draft: false
 
 萌ICP备20229192号  
 这一天，或许有很多称呼，是  
+
 * 公元 2022 年 12 月 23 日
 * 农历 壬寅年 腊月 初一
 * 希吉来历 1444 年 Jumada I-Ula 29
@@ -29,6 +30,7 @@ draft: false
 ```bash
 t add "@blog +post due:2022-12-25 join moe icp"
 ```
+
 {{< details summary="" >}}
 
 <p><s>也许你不知道这是什么，那正是自然的事情</s>，因为啊，有一个笨蛋博主，早早的就写了 todo，<s>但是他没有 do</s></p>
@@ -38,7 +40,7 @@ t add "@blog +post due:2022-12-25 join moe icp"
 <p><s>下面是吹水</s></p>
 
 <blockquote>
-    <p>The easiest to-do list I ever used. -Dennis</p><p>Brilliant... the &quot;cool&quot; factor is off the charts. -John</p>
+    <p>The easiest to-do list I ever used. -Dennis</p><p>Brilliant... the "cool" factor is off the charts. -John</p>
     <p>So simple, yet also very versatile and flexible. I love it! -mschooler93</p>
     <p>Extremely useful and well executed. -nemof</p>
     <p>No frills, highly effective and convenient. -Will</p>
@@ -126,7 +128,7 @@ $$1 kg = \dfrac{h}{6.662607015 \times 10^{-34}m^{2} \cdot s^{-1}}$$
 ### 9192
 
 $$1s = \dfrac{9192631770}{\Delta V_{Cs}}$$
- 
+
 (将铯-133原子不受扰动的基态超精细能级跃迁频率$\Delta V_{Cs}$的值固定为9192631770赫兹( $1Hz = 1 s^{-1}$ ))
 
 秒 是 SI 制中时间的基本单位，铯-133原子不受扰动的基态超精细能级跃迁所对应的辐射的 9192631770 个周期的持续时间为一秒
