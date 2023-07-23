@@ -16,7 +16,7 @@ links:
   - title: Kevin8w的小窝
     description: Music + Code = Best
     website: https://hugo.utermux.dev/
-    image: https://github.com/2096779623.jpg
+    image: https://github.com/2096779623.png
   - title: 雪碧论坛
     description: 一个可以畅所欲言的论坛
     website: https://bbs.xb6868.com
