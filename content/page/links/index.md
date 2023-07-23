@@ -13,10 +13,10 @@ links:
     description: 无限进步.🎈
     website: https://blog.linsnow.cn/
     image: https://blog.linsnow.cn/img/avatar.png
-  - title: Utermux博客
-    description: 2096779623的个人博客
-    website: https://blog.utermux.dev/
-    image: https://blog.utermux.dev/utermux.jpg
+  - title: Kevin8w的小窝
+    description: Music + Code = Best
+    website: https://hugo.utermux.dev/
+    image: https://github.com/2096779623.jpg
   - title: 雪碧论坛
     description: 一个可以畅所欲言的论坛
     website: https://bbs.xb6868.com
