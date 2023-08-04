@@ -31,7 +31,7 @@ links:
     image: https://s3.bmp.ovh/imgs/2022/11/06/678e57e18c8d4dcb.jpg
   - title: MC_DALIU
     description: 一个菜鸟的半成品个人网站
-    website: https://mcdaliu.freeee.ml/
+    website: https://mc-daliu.github.io/
     image: https://q2.qlogo.cn/headimg_dl?dst_uin=2263157943&spec=100
 
 menu:
