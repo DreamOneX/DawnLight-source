@@ -33,7 +33,7 @@ t add "@blog +post due:2022-12-25 join moe icp"
 
 {{< details summary="" >}}
 
-<p><s>也许你不知道这是什么，那正是自然的事情</s>，因为啊，有一个笨蛋博主，早早的就写了 todo，<s>但是他没有 do</s></p>
+<p><s>也许你不知道这是什么，那正是自然的事情</s>，因为啊，有一个笨蛋博主，早早的就写了 todo，<s>但是她没有 do</s></p>
 
 <p><code>alias t=todo.sh</code>，也许你并不知道 <code>t</code> 是什么，看上下文或许脑子里浮现出了 <a href="http://todotxt.org"><code>todo.txt</code></a> (这是可以戳的，<s>不信你试试</s>) 这个名字，它真的太出色了</p>
 
