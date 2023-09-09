@@ -33,6 +33,14 @@ links:
     description: 一个菜鸟的半成品个人网站
     website: https://mc-daliu.github.io/
     image: https://q2.qlogo.cn/headimg_dl?dst_uin=2263157943&spec=100
+  - title: PangBai'S Blog
+    description: 摸鱼的旁白
+    website: https://pangbai.work/
+    image: https://q1.qlogo.cn/g?b=qq&nk=1642981619&s=640
+  - title: XiaMoHuaHuo_CN's Blog
+    description: Keep doing, keep loving.
+    website: https://blog.ovome.icu/
+    image: https://blog.ovome.icu/images/favicon.png
 
 menu:
     main: 
