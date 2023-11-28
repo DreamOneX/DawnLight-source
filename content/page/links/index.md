@@ -37,10 +37,10 @@ links:
     description: 摸鱼的旁白
     website: https://pangbai.work/
     image: https://q1.qlogo.cn/g?b=qq&nk=1642981619&s=640
-  - title: XiaMoHuaHuo_CN's Blog
+  - title: 夏沫花火zzz🌙 (Muska_Ami)のLife
     description: Keep doing, keep loving.
-    website: https://blog.ovome.icu/
-    image: https://blog.ovome.icu/images/favicon.png
+    website: https://blog.1l1.icu/
+    image: https://blog.1l1.icu/images/avatar.jpg
 
 menu:
     main: 
